@@ -9,7 +9,7 @@
 </html>
 <?php
 //isikan token dan nama botmu yang di dapat dari bapak bot :
-$TOKEN      = "1319444793:AAEi4TkmNc7kIwVuRAVdYAf8ED8mINN-GMM"; // ganti dengan token bot anda
+$TOKEN      = "18mINN-GMM"; // ganti dengan token bot anda
 $usernamebot= "@Barucobabot"; // sesuaikan besar kecilnya, bermanfaat nanti jika bot dimasukkan grup.
 // aktifkan ini jika perlu debugging
 $debug = false;
